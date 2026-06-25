@@ -1,0 +1,13 @@
+
+
+.cabecalho {
+    background-color: rgb(238, 87, 238);
+    color:rgb(243, 13, 82);
+    text-align: center;
+    max-width:800px;
+}
+
+.conteudo-principal{
+    background-color: rgb(204, 26, 26);
+    color:rgb(238, 87, 238)
+}
