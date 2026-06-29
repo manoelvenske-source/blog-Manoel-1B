@@ -1,13 +1,19 @@
 
 
 .cabecalho {
-    background-color: rgb(238, 87, 238);
-    color:rgb(243, 13, 82);
+    background-color: rgb(252, 235, 2);
+    color:rgb(0, 0, 0);
     text-align: center;
     max-width:800px;
+    margin: 0 auto
 }
 
 .conteudo-principal{
-    background-color: rgb(204, 26, 26);
-    color:rgb(238, 87, 238)
+    background-color: rgb(41, 219, 5);
+    color:rgb(0, 0, 0)
+}
+
+.imagem-principal{
+    width: 900px;
+    height: 700px;
 }
